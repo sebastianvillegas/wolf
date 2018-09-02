@@ -1,0 +1,49 @@
+.logo {
+  width: 70px;
+}
+
+.text-wolf {
+  color: #42AB42 !important;
+}
+
+.btn-wolf {
+  background-color: #42AB42;
+  color: white;
+}
+
+.btn-wolf:hover {
+  background-color: #30AB30;
+}
+
+.carousel {
+  position: relative;
+}
+
+#vivamus .carousel-inner img {
+  max-height: 70vh;
+  object-fit: cover;
+}
+
+.carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+}
+
+.carousel .overlay .container,
+.carousel .overlay .row {
+  height: 100%;
+}
+
+#vestibulum img {
+  width: 100%;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
